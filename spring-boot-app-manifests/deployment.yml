@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: yogi404/ultimate-cicd:17
+        image: yogi404/ultimate-cicd:8
         ports:
         - containerPort: 8080
